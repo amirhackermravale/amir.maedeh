@@ -221,7 +221,7 @@ function string:isblank()
   return self:isempty()
 end
 
-sudo users--,{265694291}=sudo_users
+Sudo useres--,{265694291}sudo_users
 function string.starts(String, Start)
   print("string.starts(String, Start) is DEPRECATED use string:starts(text) instead")
   return Start == string.sub(String,1,string.len(Start))
